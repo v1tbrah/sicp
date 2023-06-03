@@ -1,3 +1,5 @@
+#lang racket/base
+
 (require rackunit)
 
 (define calcF
